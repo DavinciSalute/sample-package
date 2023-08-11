@@ -1,0 +1,12 @@
+{
+  "name": "@andreataglia/sample-package",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "https://github.com/DavinciSalute/sample-package.git",
+  "author": "<drew.taglia@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
